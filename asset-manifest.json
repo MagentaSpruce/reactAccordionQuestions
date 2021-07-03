@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactAccordionQuestions/static/css/main.071378ba.chunk.css",
+    "main.js": "/reactAccordionQuestions/static/js/main.5369fc34.chunk.js",
+    "main.js.map": "/reactAccordionQuestions/static/js/main.5369fc34.chunk.js.map",
+    "runtime-main.js": "/reactAccordionQuestions/static/js/runtime-main.d8315f14.js",
+    "runtime-main.js.map": "/reactAccordionQuestions/static/js/runtime-main.d8315f14.js.map",
+    "static/js/2.40b1d22a.chunk.js": "/reactAccordionQuestions/static/js/2.40b1d22a.chunk.js",
+    "static/js/2.40b1d22a.chunk.js.map": "/reactAccordionQuestions/static/js/2.40b1d22a.chunk.js.map",
+    "index.html": "/reactAccordionQuestions/index.html",
+    "precache-manifest.2cdd975862cca369712a6923d6953bd1.js": "/reactAccordionQuestions/precache-manifest.2cdd975862cca369712a6923d6953bd1.js",
+    "service-worker.js": "/reactAccordionQuestions/service-worker.js",
+    "static/css/main.071378ba.chunk.css.map": "/reactAccordionQuestions/static/css/main.071378ba.chunk.css.map",
+    "static/js/2.40b1d22a.chunk.js.LICENSE.txt": "/reactAccordionQuestions/static/js/2.40b1d22a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8315f14.js",
+    "static/js/2.40b1d22a.chunk.js",
+    "static/css/main.071378ba.chunk.css",
+    "static/js/main.5369fc34.chunk.js"
+  ]
+}
